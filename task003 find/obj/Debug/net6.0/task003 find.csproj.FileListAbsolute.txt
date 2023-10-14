@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\lesson2csharp\task003 find\bin\Debug\net6.0\task003 find.exe
+C:\Users\Home\Desktop\lesson2csharp\task003 find\bin\Debug\net6.0\task003 find.deps.json
+C:\Users\Home\Desktop\lesson2csharp\task003 find\bin\Debug\net6.0\task003 find.runtimeconfig.json
+C:\Users\Home\Desktop\lesson2csharp\task003 find\bin\Debug\net6.0\task003 find.dll
+C:\Users\Home\Desktop\lesson2csharp\task003 find\bin\Debug\net6.0\task003 find.pdb
+C:\Users\Home\Desktop\lesson2csharp\task003 find\obj\Debug\net6.0\task003 find.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\lesson2csharp\task003 find\obj\Debug\net6.0\task003 find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\lesson2csharp\task003 find\obj\Debug\net6.0\task003 find.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\lesson2csharp\task003 find\obj\Debug\net6.0\task003 find.AssemblyInfo.cs
+C:\Users\Home\Desktop\lesson2csharp\task003 find\obj\Debug\net6.0\task003 find.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\lesson2csharp\task003 find\obj\Debug\net6.0\task003 find.dll
+C:\Users\Home\Desktop\lesson2csharp\task003 find\obj\Debug\net6.0\refint\task003 find.dll
+C:\Users\Home\Desktop\lesson2csharp\task003 find\obj\Debug\net6.0\task003 find.pdb
+C:\Users\Home\Desktop\lesson2csharp\task003 find\obj\Debug\net6.0\task003 find.genruntimeconfig.cache
+C:\Users\Home\Desktop\lesson2csharp\task003 find\obj\Debug\net6.0\ref\task003 find.dll

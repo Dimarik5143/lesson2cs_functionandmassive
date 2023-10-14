@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\lesson2csharp\task004 arraymas\obj\Debug\net6.0\task004 arraymas.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\lesson2csharp\task004 arraymas\obj\Debug\net6.0\task004 arraymas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\lesson2csharp\task004 arraymas\obj\Debug\net6.0\task004 arraymas.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\lesson2csharp\task004 arraymas\obj\Debug\net6.0\task004 arraymas.AssemblyInfo.cs
+C:\Users\Home\Desktop\lesson2csharp\task004 arraymas\obj\Debug\net6.0\task004 arraymas.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\lesson2csharp\task004 arraymas\bin\Debug\net6.0\task004 arraymas.exe
+C:\Users\Home\Desktop\lesson2csharp\task004 arraymas\bin\Debug\net6.0\task004 arraymas.deps.json
+C:\Users\Home\Desktop\lesson2csharp\task004 arraymas\bin\Debug\net6.0\task004 arraymas.runtimeconfig.json
+C:\Users\Home\Desktop\lesson2csharp\task004 arraymas\bin\Debug\net6.0\task004 arraymas.dll
+C:\Users\Home\Desktop\lesson2csharp\task004 arraymas\bin\Debug\net6.0\task004 arraymas.pdb
+C:\Users\Home\Desktop\lesson2csharp\task004 arraymas\obj\Debug\net6.0\task004 arraymas.dll
+C:\Users\Home\Desktop\lesson2csharp\task004 arraymas\obj\Debug\net6.0\refint\task004 arraymas.dll
+C:\Users\Home\Desktop\lesson2csharp\task004 arraymas\obj\Debug\net6.0\task004 arraymas.pdb
+C:\Users\Home\Desktop\lesson2csharp\task004 arraymas\obj\Debug\net6.0\task004 arraymas.genruntimeconfig.cache
+C:\Users\Home\Desktop\lesson2csharp\task004 arraymas\obj\Debug\net6.0\ref\task004 arraymas.dll

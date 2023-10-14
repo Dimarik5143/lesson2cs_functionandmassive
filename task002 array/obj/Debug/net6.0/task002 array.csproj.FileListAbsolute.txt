@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\lesson2csharp\task002 array\obj\Debug\net6.0\task002 array.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\lesson2csharp\task002 array\obj\Debug\net6.0\task002 array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\lesson2csharp\task002 array\obj\Debug\net6.0\task002 array.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\lesson2csharp\task002 array\obj\Debug\net6.0\task002 array.AssemblyInfo.cs
+C:\Users\Home\Desktop\lesson2csharp\task002 array\obj\Debug\net6.0\task002 array.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\lesson2csharp\task002 array\bin\Debug\net6.0\task002 array.exe
+C:\Users\Home\Desktop\lesson2csharp\task002 array\bin\Debug\net6.0\task002 array.deps.json
+C:\Users\Home\Desktop\lesson2csharp\task002 array\bin\Debug\net6.0\task002 array.runtimeconfig.json
+C:\Users\Home\Desktop\lesson2csharp\task002 array\bin\Debug\net6.0\task002 array.dll
+C:\Users\Home\Desktop\lesson2csharp\task002 array\bin\Debug\net6.0\task002 array.pdb
+C:\Users\Home\Desktop\lesson2csharp\task002 array\obj\Debug\net6.0\task002 array.dll
+C:\Users\Home\Desktop\lesson2csharp\task002 array\obj\Debug\net6.0\refint\task002 array.dll
+C:\Users\Home\Desktop\lesson2csharp\task002 array\obj\Debug\net6.0\task002 array.pdb
+C:\Users\Home\Desktop\lesson2csharp\task002 array\obj\Debug\net6.0\task002 array.genruntimeconfig.cache
+C:\Users\Home\Desktop\lesson2csharp\task002 array\obj\Debug\net6.0\ref\task002 array.dll
